@@ -1,0 +1,7 @@
+{
+    "name": "quevedoandlinton/ext-xsl",
+    "description": "ext-xsl",
+    "require": {
+        "php": ">=1.0"
+    }
+}
